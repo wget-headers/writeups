@@ -4,6 +4,10 @@ this was a java .class file
 
 i use this website http://www.javadecompilers.com/ to decompile the file.
 
+then kida just did the reverse of all the functions
+
+and wrote this code:
+
 ```java
 import math
 import numpy as np
